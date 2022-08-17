@@ -15,6 +15,6 @@
 
 >EATING CHOICES
 
-- [x] eat cat
-- [ ] eat dog
+- [x] eat cat :cat:
+- [ ] eat dog :dog:
 - [ ] eat poop :poop:
